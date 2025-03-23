@@ -8,6 +8,8 @@ export default function App() {
       <div className="bg-yellow-600 w-24 h-6 flex justify-end items-center">
         App
       </div>
-    </>
+    <img src="" alt="">
+      </img>
+       </>
   );
 }
